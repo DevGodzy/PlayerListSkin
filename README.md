@@ -1,5 +1,5 @@
-Add the png file into C:\SteamLibrary\steamapps\common\Crab Game\BepInEx\config with the name "playerlist_bg.png"
+Add a folder into C:\SteamLibrary\steamapps\common\Crab Game\BepInEx\config with the name "playerlist_bg"
 
-Add your own png by replacing the already existing one
+F6 to switch photo in alphabetic order
 
-f6 to reload the image when ingame
+Able to have as many photos as you want in the folder
